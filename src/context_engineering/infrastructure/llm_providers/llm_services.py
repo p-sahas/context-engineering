@@ -100,7 +100,7 @@ def get_chat_llm(
             openai_api_key=api_key,
             openai_api_base=OPENROUTER_BASE_URL,
             default_headers={
-                "HTTP-Referer": "https://github.com/zuu-crew/context-engineering",
+                "HTTP-Referer": "https://github.com/p-sahas/context-engineering",
                 "X-Title": "Context Engineering RAG"
             },
             **kwargs
