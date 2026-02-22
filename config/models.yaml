@@ -36,7 +36,7 @@ google:
 groq:
   chat:
     general: llama-3.1-8b-instant
-    strong: llama-3.1-70b-versatile
+    strong: llama-3.3-70b-versatile
     reason: deepseek-r1-distill-llama-70b
 
 deepseek:
